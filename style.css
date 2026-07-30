@@ -1014,7 +1014,7 @@ body.menu-is-open {
     width: 100%;
     /* min-height: 640px; */
     height: 40vh;
-    background-image: url(img/hero-bg.webp);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.22), rgba(0, 0, 0, 0.2)), url(img/reserv-bg.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
